@@ -50,7 +50,11 @@ body {
 
 .header {
   @include flex(0, 0, auto);
-  background: darken($color__site--background, 10%);
+  background: #555;
+}
+
+.warnalinkmenu {
+  color: #fff;
 }
 
 .logo {
