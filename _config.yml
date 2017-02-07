@@ -31,7 +31,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Asia/Bangkok # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -57,7 +57,7 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Garth" # Site name or title
+title: "Aislay" # Site name or title
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=500" # Site logo
 description: "Blog pribadi dan diary seorang pelajar aneh" # Site description and default description
 url: "https://aislay.github.io" # Site url
