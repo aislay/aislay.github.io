@@ -58,6 +58,6 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 title: "Aislay" # Site name or title
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=500" # Site logo
+logo: "https://avatars2.githubusercontent.com/u/25609338?v=3&s=500" # Site logo
 description: "Blog pribadi dan diary seorang pelajar aneh" # Site description and default description
 url: "https://aislay.github.io" # Site url
