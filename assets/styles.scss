@@ -50,7 +50,7 @@ body {
 
 .header {
   @include flex(0, 0, auto);
-  background: #555;
+  background: #555!important;
 }
 
 .warnalinkmenu {
