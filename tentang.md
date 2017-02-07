@@ -1,5 +1,6 @@
 ---
 title: Tentang
+description: Sebagian kecil biodata penulis
 ---
 
 Halo... nama saya Afiq Ilyasa Akmal, pelajar di SMA Negeri 3 Bekasi, dan mengambil jurusan MIPA. Mengapa MIPA? Sebab saya beranggapan kelak nanti saya akan mengambil kuliah jurusan teknik **[apa aja]**. Hahaha.. Aamiinn. 
