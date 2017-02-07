@@ -14,7 +14,7 @@ title: false
 
 // Structural elements
 body {
-  background: $color__site--background;
+  background-color: #fff!important;
   color: $color__site--body;
   height: 100%;
   display: flex;
@@ -50,7 +50,6 @@ body {
 
 .header {
   @include flex(0, 0, auto);
-  background: #555!important;
 }
 
 .warnalinkmenu {
