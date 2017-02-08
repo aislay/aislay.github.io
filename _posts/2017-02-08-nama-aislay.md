@@ -6,7 +6,7 @@ description: Asal nama Aislay, dan kata-kata gak jelas aja.
 
 Apa itu Aislay?
 
-<!--more-->
+<!-- more -->
 
 Bagi anda yang tahu dengan *anagram*, anda akan mengerti. Anagram adalah permainan kata yang mengharuskan anda membuat frasa baru dari kata awal. Misalnya, **Ilyasa** menjadi **Aislay**. Huruf dari dua kata tersebut sama, namun dibalik-balik jadi menghasilkan frasa baru yang menurut saya unik.
 
