@@ -1,6 +1,7 @@
 ---
 title: Nama Aislay
 category: Jurnal
+description: Asal nama Aislay, dan kata-kata gak jelas aja.
 ---
 
 Apa itu Aislay?
