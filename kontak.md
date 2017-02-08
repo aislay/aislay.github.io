@@ -4,9 +4,9 @@ description: Yang mau ngontak saya bisa menggunakan kontak yang ada di bawah.
 ---
 
 Email: im.aislay[at]gmail.com
-</br>
+<br/>
 Twitter: @afiqilyasaa
-</br>
+<br/>
 LINE: afiqilyasaa
-</br>
+<br/>
 Instagram: afiqilyasaakmal
