@@ -12,11 +12,16 @@ Beberapa waktu yang lalu, gua membeli unit multiefek Line6 POD HD 300. Inilah ta
 
 ## Ulasan
 Suara: 8
+<br/>
 Fitur: 7
+<br/>
 Kesan keseluruhan: 8
+<br/>
 Daya tahan: 9
+<br/>
 Pemakaian: 9
-
+<br/>
+<br/>
 Dibeli dari: Barang seken
 Harga: Rp. 2.300.000
 
